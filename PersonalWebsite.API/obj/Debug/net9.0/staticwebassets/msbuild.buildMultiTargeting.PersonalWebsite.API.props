@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PersonalWebsite.API.props" />
+</Project>
